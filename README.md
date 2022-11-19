@@ -1,5 +1,5 @@
 # Book-Store
-E-commerce Book Store.
+WELCOME to my E-commerce Book Store.
 Download and Unzip the project.
 Run the project using PHP(My Admin).
 Create an account by entering your details to sign upon the webiste.
